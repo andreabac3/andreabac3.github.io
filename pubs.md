@@ -2,8 +2,8 @@
 
 ### Study on Transfer Learning Capabilities for Pneumonia Classification in Chest-X-Rays Image
 
-Authors: Danilo Avola, <strong>Andrea Bacciu</strong>, Luigi Cinque, Alessio Fagioli, Marco Raoul Marini, Riccardo Taiello<br>
-Conference: <strong>Under review</strong><br>
+Authors: Danilo Avola, <strong>Andrea Bacciu</strong>, Luigi Cinque, Alessio Fagioli, Marco Raoul Marini, [Riccardo Taiello](https://rtaiello.github.io)<br>
+Journal: <strong>Under review</strong><br>
 Paper: [Link](https://arxiv.org/pdf/2110.02780.pdf) <br>
 
 <details>

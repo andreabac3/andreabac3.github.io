@@ -1,8 +1,8 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
-title: Andrea Bacciu
-description: Artificial Intelligence PhD's student in Natural Language Processing at Sapienza University of Rome. Ex-Google DSC Lead in 2019/2020.
+title: Andrea Bacciu, Ph.D.
+description: Applied Scientist II at Amazon · Ph.D. in NLP · Uncertainty Estimation · LLM-as-a-Judge
 show_downloads: false
 logo: "/assets/data/IMG_3376.jpeg" #https://github.com/andreabac3.png?size=256
 github: [metadata]

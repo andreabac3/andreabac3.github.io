@@ -15,7 +15,12 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+      .fab{font-family:"Font Awesome 5 Brands";font-weight:400;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}
+      @font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:400;font-display:swap;src:url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff2) format("woff2")}
+      .fa-github:before{content:"\f09b"}.fa-linkedin:before{content:"\f08c"}.fa-twitter:before{content:"\f099"}.fa-researchgate:before{content:"\f4f8"}
+      a{text-decoration:underline}a:hover{text-decoration:none}
+    </style>
     <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | append: site.github.build_revision | relative_url | replace: "ColorScheme", ColorScheme }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -28,7 +33,7 @@
         <header>
           {% if site.logo %}
             <!--- <img src="{{site.logo | relative_url}}" alt="Logo" /> -->
-            <img src="assets/data/photo.jpg" alt="Logo" />
+            <img src="assets/data/photo.webp" alt="Logo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" />
           {% endif %}
 
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -46,9 +51,11 @@
         </div>
       </div>
       <section>
+      <main>
 
       {{ content }}
 
+      </main>
       </section>
       <footer>
         {%- include footer.html -%}

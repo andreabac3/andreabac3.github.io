@@ -4,7 +4,7 @@
 
 I am an Applied Scientist II at Amazon in Madrid. I am the science lead for Cross-lingual Customer Review Summarization and I work on LLM-as-a-Judge, specifically researching Uncertainty Estimation.
 
-I hold a Ph.D. in NLP from Sapienza University of Rome, supervised by Professor [Fabrizio Silvestri](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri). My work was recognized with the 🏆 NAACL 2021 Outstanding Long Paper Award.
+I hold a Ph.D. in NLP from Sapienza University of Rome, supervised by Professor [Fabrizio Silvestri](https://sites.google.com/diag.uniroma1.it/fabriziosilvestri). My work on [Cross-lingual Semantic Role Labeling](https://aclanthology.org/2021.naacl-main.31/) was recognized with the 🏆 NAACL 2021 Outstanding Long Paper Award.
 
 My journey in NLP spans from classic TF-IDF, Word2Vec, BERT up to LLMs. Along the way, I have worked on a diverse range of tasks including Semantic Role Labeling, Semantic Parsing, Word Sense Disambiguation, Sequential Recommender Systems, and Graph Neural Networks.
 
@@ -34,12 +34,12 @@ Funded by the [National AI Competition](https://www.phd-ai.it/) research grant
 
 ## Selected Publications
 
-- 🏆 *Unifying Cross-Lingual Semantic Role Labeling with Heterogeneous Linguistic Resources* — **NAACL 2021 Outstanding Long Paper**
-- *Monte Carlo Temperature: a Robust Sampling Strategy for LLM's Uncertainty Quantification Methods* — TrustNLP 2025
-- *Handling Ontology Gaps in Semantic Parsing* — *SEM 2024
-- *RRAML: Reinforced Retrieval Augmented Machine Learning* — AIxIA 2023
-- *DanteLLM: Let's Push Italian LLM Research Forward!* — LREC-COLING 2024
-- *Generating Query Recommendations via LLMs* — IR-RAG @ SIGIR 2024
+- 🏆 [*Unifying Cross-Lingual Semantic Role Labeling with Heterogeneous Linguistic Resources*](https://aclanthology.org/2021.naacl-main.31/) — **NAACL 2021 Outstanding Long Paper**
+- [*Monte Carlo Temperature: a Robust Sampling Strategy for LLM's Uncertainty Quantification Methods*](https://aclanthology.org/2025.trustnlp-main.21/) — TrustNLP 2025
+- [*Handling Ontology Gaps in Semantic Parsing*](https://aclanthology.org/2024.starsem-1.28) — *SEM 2024
+- [*RRAML: Reinforced Retrieval Augmented Machine Learning*](https://arxiv.org/abs/2307.12798) — AIxIA 2023
+- [*DanteLLM: Let's Push Italian LLM Research Forward!*](https://aclanthology.org/2024.lrec-main.388/) — LREC-COLING 2024
+- [*Generating Query Recommendations via LLMs*](https://arxiv.org/abs/2405.19749) — IR-RAG @ SIGIR 2024
 
 👉 [Full list of publications](./pubs)
 

@@ -34,6 +34,9 @@ Funded by the [National AI Competition](https://www.phd-ai.it/) research grant
 
 ## Selected Publications
 
+- [*Estimating Uncertainty from Reasoning: A Large-Scale Study of Multi- and Crosslingual MCQA Performance in LLMs*](https://arxiv.org/abs/2607.06327) — Findings of EMNLP 2026
+- [*Select, Label, Evaluate: Active Testing in NLP*](https://arxiv.org/abs/2603.21840) — EMNLP 2026
+- [*QUORUM: QUality-Optimized Routing Using Multiple annotators*](https://arxiv.org/abs/2608.27974) — EMNLP 2026
 - 🏆 [*Unifying Cross-Lingual Semantic Role Labeling with Heterogeneous Linguistic Resources*](https://aclanthology.org/2021.naacl-main.31/) — **NAACL 2021 Outstanding Long Paper**
 - [*Monte Carlo Temperature: a Robust Sampling Strategy for LLM's Uncertainty Quantification Methods*](https://aclanthology.org/2025.trustnlp-main.21/) — TrustNLP 2025
 - [*Handling Ontology Gaps in Semantic Parsing*](https://aclanthology.org/2024.starsem-1.28) — *SEM 2024

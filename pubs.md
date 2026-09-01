@@ -12,6 +12,24 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 
 ### 2026
 
+#### Estimating Uncertainty from Reasoning: A Large-Scale Study of Multi- and Crosslingual MCQA Performance in LLMs
+
+Authors: <strong>Andrea Bacciu</strong>, Andrea Alfarano, Saab Mansour, Amin Mantrach, Marcello Federico<br>
+Conference: Findings of EMNLP 2026<br>
+Preprint: [arXiv](https://arxiv.org/abs/2607.06327) <br>
+
+#### Select, Label, Evaluate: Active Testing in NLP
+
+Authors: Antonio Purificato, Maria Sofia Bucarelli, <strong>Andrea Bacciu</strong>, Fabrizio Silvestri, Amin Mantrach<br>
+Conference: EMNLP 2026<br>
+Preprint: [arXiv](https://arxiv.org/abs/2603.21840) <br>
+
+#### QUORUM: QUality-Optimized Routing Using Multiple annotators
+
+Authors: Antonio Purificato, Maria Sofia Bucarelli, <strong>Andrea Bacciu</strong>, Amin Mantrach, Fabrizio Silvestri<br>
+Conference: EMNLP 2026<br>
+Preprint: [arXiv](https://arxiv.org/abs/2608.27974) <br>
+
 #### When Annotators Disagree: A Principled Approach to Learning with Noisy Labels
 
 Authors: Antonio Purificato, Maria Sofia Bucarelli, <strong>Andrea Bacciu</strong>, Anil Kumar Nelakanti, Lucas Cassano, Federico Siciliano, Fabrizio Silvestri, Amin Mantrach<br>

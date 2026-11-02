@@ -15,35 +15,46 @@ For a complete and up-to-date list, see my [Google Scholar](https://scholar.goog
 #### Estimating Uncertainty from Reasoning: A Large-Scale Study of Multi- and Crosslingual MCQA Performance in LLMs
 
 Authors: <strong>Andrea Bacciu</strong>, Andrea Alfarano, Saab Mansour, Amin Mantrach, Marcello Federico<br>
-Conference: Findings of EMNLP 2026<br>
+Conference: EMNLP 2026 Findings<br>
+Paper: [ACL Anthology](https://aclanthology.org/2026.findings-emnlp.865/)<br>
 Preprint: [arXiv](https://arxiv.org/abs/2607.06327) <br>
 
 #### Select, Label, Evaluate: Active Testing in NLP
 
 Authors: Antonio Purificato, Maria Sofia Bucarelli, <strong>Andrea Bacciu</strong>, Fabrizio Silvestri, Amin Mantrach<br>
-Conference: EMNLP 2026<br>
+Conference: EMNLP 2026 Main<br>
+Paper: [ACL Anthology](https://aclanthology.org/2026.emnlp-main.1160/)<br>
 Preprint: [arXiv](https://arxiv.org/abs/2603.21840) <br>
 
 #### QUORUM: QUality-Optimized Routing Using Multiple annotators
 
 Authors: Antonio Purificato, Maria Sofia Bucarelli, <strong>Andrea Bacciu</strong>, Amin Mantrach, Fabrizio Silvestri<br>
-Conference: EMNLP 2026<br>
+Conference: EMNLP 2026 Main<br>
+Paper: [ACL Anthology](https://aclanthology.org/2026.emnlp-main.1172/)<br>
 Preprint: [arXiv](https://arxiv.org/abs/2608.27974) <br>
 
 #### When Annotators Disagree: A Principled Approach to Learning with Noisy Labels
 
-Authors: Antonio Purificato, Maria Sofia Bucarelli, <strong>Andrea Bacciu</strong>, Anil Kumar Nelakanti, Lucas Cassano, Federico Siciliano, Fabrizio Silvestri, Amin Mantrach<br>
+Authors: Maria Sofia Bucarelli, Antonio Purificato, <strong>Andrea Bacciu</strong>, Lucas Cassano, Federico Siciliano, Anil Nelakanti, Amin Mantrach, Fabrizio Silvestri<br>
 Journal: IEEE Transactions on Artificial Intelligence (Q1 Journal), 2026<br>
+Paper: [IEEE Computer Society](https://www.computer.org/csdl/journal/ai/2026/08/11417931/2ex5XotnXnG) · [DOI](https://doi.org/10.1109/TAI.2026.3666527)<br>
 
 #### The Majority Vote Paradigm Shift: When Popular Meets Optimal
 
 Authors: Antonio Purificato, Maria Sofia Bucarelli, Anil Kumar Nelakanti, <strong>Andrea Bacciu</strong>, Fabrizio Silvestri, Amin Mantrach<br>
 Conference: AISTATS 2026<br>
+Paper: [PMLR](https://proceedings.mlr.press/v300/purificato26a.html)<br>
 Preprint: [arXiv](https://arxiv.org/abs/2502.12581) <br>
 
 ---
 
 ### 2025
+
+#### STLight: A Fully Convolutional Approach for Efficient Predictive Learning by Spatio-Temporal Joint Processing
+
+Authors: Andrea Alfarano, Alberto Alfarano, Linda Friso, <strong>Andrea Bacciu</strong>, Irene Amerini, Fabrizio Silvestri<br>
+Conference: WACV 2025<br>
+Paper: [CVF Open Access](https://openaccess.thecvf.com/content/WACV2025/html/Alfarano_STLight_A_Fully_Convolutional_Approach_for_Efficient_Predictive_Learning_by_WACV_2025_paper.html)<br>
 
 #### Monte Carlo Temperature: a Robust Sampling Strategy for LLM's Uncertainty Quantification Methods
 
@@ -79,11 +90,6 @@ Journal: IEEE Access, 2024<br>
 
 Authors: <strong>Andrea Bacciu</strong>, Enrico Palumbo, Andreas Damianou, Nicola Tonellotto, Fabrizio Silvestri<br>
 Workshop: IR-RAG @ SIGIR 2024<br>
-
-#### STLight: a Fully Convolutional Approach for Efficient Predictive Learning by Spatio-Temporal Joint Processing
-
-Authors: Andrea Alfarano, Andrea Alfarano, Luca Friso, <strong>Andrea Bacciu</strong>, Irene Amerini, Fabrizio Silvestri<br>
-Conference: WACV 2024<br>
 
 #### Handling Ontology Gaps in Semantic Parsing
 
